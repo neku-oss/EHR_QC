@@ -3,8 +3,9 @@ Eeletronic health record quality control related
 CN_ver
 HQMS住院病案首页评分系统  
 版本：v1.0 Alpha  
-作者：Neku Isomer  
+作者：刘强森 
 日期：2025年8月
+邮箱：liu_qiangsen@outlook.com 
 
 ==========================================
 📌 简介：
@@ -54,8 +55,8 @@ HQMS住院病案首页评分系统
 🛠 技术支持：
 如需定制开发、评分规则升级、导出模板对接、数据自动上传等服务，请联系作者：
 
-Neku Isomer  
-邮箱：nekuisomer@gmail.com  
+ 
+邮箱：liu_qiangsen@outlook.com 
 GitHub主页：https://github.com/neku-oss
 
 本程序已申请软件著作权保护，严禁擅自盗用及商业贩卖。
@@ -68,7 +69,7 @@ HQMS Inpatient Front Page Scoring System
 
 Version: v1.0 Alpha
 
-Author: Neku Isomer
+Author: 刘强森
 
 Date: August 2025
 
@@ -147,8 +148,6 @@ Example output filename:
 
 For custom development, scoring rules upgrades, export template integration, or automated data upload solutions, please contact:
 
-Neku Isomer  
-Email: nekuisomer@gmail.com  
 GitHub: https://github.com/neku-oss
 
 This software is protected by copyright.  
