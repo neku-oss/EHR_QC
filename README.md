@@ -3,8 +3,8 @@ Eeletronic health record quality control related
 CN_ver
 HQMS住院病案首页评分系统  
 版本：v1.0 Alpha  
-作者：刘强森 
-日期：2025年8月 
+作者：Neku 
+日期：2026年8月 
 邮箱：liu_qiangsen@outlook.com 
 
 ==========================================
