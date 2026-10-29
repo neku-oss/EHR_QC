@@ -56,7 +56,6 @@ HQMS住院病案首页评分系统
 如需定制开发、评分规则升级、导出模板对接、数据自动上传等服务，请联系作者：
 
  
-邮箱：liu_qiangsen@outlook.com 
 GitHub主页：https://github.com/neku-oss
 
 本程序已申请软件著作权保护，严禁擅自盗用及商业贩卖。
@@ -69,7 +68,7 @@ HQMS Inpatient Front Page Scoring System
 
 Version: v1.0 Alpha
 
-Author: 刘强森
+Author: neku
 
 Date: August 2025
 
